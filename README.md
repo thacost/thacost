@@ -1,7 +1,7 @@
 <h1>Bem-vindo(a) ao perfil do Thales Costa!</h1>
 
 ✔️ Designer Gráfico<br>
-✔️ Motion Desginer<br>
+✔️ Motion Designer<br>
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
 🌱 Estudando Python<br>
 🌱 Estudando Javascript<br>
