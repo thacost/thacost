@@ -3,8 +3,11 @@
 ✔️ Designer Gráfico<br>
 ✔️ Motion Designer<br>
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
-🌱 Estudando Python<br>
+✔️ Python<br>
+🌱 Estudando Java<br>
 🌱 Estudando Javascript<br>
+🌱 Estudando React<br>
+
 
 <div style="display: inline_block" align="center"><br>
 <img align="center" height="30" width="40" alt="Thales-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />          
