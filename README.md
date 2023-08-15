@@ -4,7 +4,7 @@
 ✔️ Motion Designer<br>
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
 ✔️ Python<br>
-🌱 Estudando Java<br>
+🌱 Estudando Java (POO)<br>
 🌱 Estudando Javascript<br>
 🌱 Estudando React<br>
 
